@@ -31,5 +31,4 @@ node_modules
 # Created by .ignore support plugin (hsz.mobi)
 
 # WebStorm IDE
-.idea
-
+/.idea
